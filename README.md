@@ -1,16 +1,48 @@
-## Hi there 👋
+### Hi there, I'm Sarah! 👋
 
-<!--
-**SarahAbada/SarahAbada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Second-year Software Engineering student at the **University of Ottawa**, passionate about building intelligent systems and scalable backend applications. I enjoy experimenting with Large Language Models (LLMs) to create tools that solve real-world problems.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🚀 What I'm Focused On
+* **🧠 Artificial Intelligence:** Experimenting with LLMs, Prompt Engineering, and RAG architectures.
+* **⚙️ Backend Development:** Building robust APIs with Python (FastAPI) and Node.js.
+* **☁️ DevOps:** Deploying applications using Docker and managing infrastructure on Google Cloud Platform.
+
+---
+
+### 🛠️ Technical Skills
+
+| Skill Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Java, C, TypeScript, JavaScript, SQL |
+| **AI/ML** | LLMs, Scikit-learn (SVM, Naive Bayes), NLP, Data Preprocessing |
+| **Backend** | FastAPI, Node.js, REST APIs, Multithreading |
+| **DevOps & Cloud** | Docker, Google Cloud Platform, Linux (Ubuntu), Bash |
+| **Databases** | PostgreSQL, Firebase, Prisma, Drizzle |
+
+
+
+---
+
+### 👨‍💻 Featured Projects
+
+* **[AI-Driven Transit Planner](https://github.com/SarahAbada/transit-planner)**: Built an intelligent mobility system integrating LLMs (Cerebras NLP) to process complex user inputs and provide real-time route recommendations.
+* **[Sentiment Analysis Backend](https://github.com/SarahAbada/sentiment-analysis-backend)**: Developed a backend API using FastAPI to classify user reviews, leveraging Scikit-learn for NLP classification.
+* **[DevOps Automation Scripts](https://github.com/SarahAbada/devops-scripts)**: Created Bash scripts to automate Docker image builds and container management.
+
+---
+
+### 📈 GitHub Stats
+
+![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahAbada&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahAbada&layout=compact&theme=radical)
+
+---
+
+### 📫 Get In Touch
+
+* **Email:** [sabad030@uottawa.ca](mailto:sabad030@uottawa.ca)
+* **LinkedIn:** [linkedin.com/in/sarah-abada-344b13334/](https://linkedin.com/in/sarah-abada-344b13334/)
