@@ -35,14 +35,7 @@ I am a Second-year Software Engineering student at the **University of Ottawa**,
 
 ---
 
-### 📈 GitHub Stats
-
-![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahAbada&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahAbada&layout=compact&theme=radical)
-
----
-
-### 📫 Get In Touch
+### Get In Touch
 
 * **Email:** [sabad030@uottawa.ca](mailto:sabad030@uottawa.ca)
 * **LinkedIn:** [linkedin.com/in/sarah-abada-344b13334/](https://linkedin.com/in/sarah-abada-344b13334/)
