@@ -31,7 +31,7 @@ I am a Second-year Software Engineering student at the **University of Ottawa**,
 
 * **[AI-Driven Transit Planner](https://github.com/SarahAbada/hackthefuture)**: Built an intelligent mobility system integrating LLMs (Cerebras NLP) to process complex user inputs and provide real-time route recommendations.
 * **[Sentiment Analysis Backend](https://github.com/SarahAbada/my-ai-backend)**: Developed a backend API using FastAPI to classify user reviews, leveraging Scikit-learn for NLP classification.
-* **[DevOps Automation Scripts](https://github.com/SarahAbada/devops-scripts)**: Created Bash scripts to automate Docker image builds and container management.
+* **[DevOps Automation Scripts](https://github.com/SarahAbada/devops-automation-scripts)**: Created Bash scripts to automate Docker image builds and container management.
 
 ---
 
