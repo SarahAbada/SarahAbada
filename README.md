@@ -1,6 +1,6 @@
 ### Hi there, I'm Sarah! 👋
 
-I am a Second-year Software Engineering student at the **University of Ottawa**, passionate about building intelligent systems and scalable backend applications. I enjoy experimenting with Large Language Models (LLMs) to create tools that solve real-world problems.
+I am a Second-year Software Engineering student at the **University of Ottawa**, passionate about building intelligent systems and scalable backend applications. I enjoy building, breaking, fixing and digging into the insides of a software system until I understand it inside out.
 
 
 
@@ -13,9 +13,9 @@ I am a Second-year Software Engineering student at the **University of Ottawa**,
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
-| Skill Category | Technologies |
+| Skill| Technologies |
 | :--- | :--- |
 | **Languages** | Python, Java, C, TypeScript, JavaScript, SQL |
 | **AI/ML** | LLMs, Scikit-learn (SVM, Naive Bayes), NLP, Data Preprocessing |
@@ -27,7 +27,7 @@ I am a Second-year Software Engineering student at the **University of Ottawa**,
 
 ---
 
-### 👨‍💻 Featured Projects
+### Featured Projects
 
 * **[AI-Driven Transit Planner](https://github.com/SarahAbada/transit-planner)**: Built an intelligent mobility system integrating LLMs (Cerebras NLP) to process complex user inputs and provide real-time route recommendations.
 * **[Sentiment Analysis Backend](https://github.com/SarahAbada/sentiment-analysis-backend)**: Developed a backend API using FastAPI to classify user reviews, leveraging Scikit-learn for NLP classification.
